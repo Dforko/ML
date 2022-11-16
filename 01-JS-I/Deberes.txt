@@ -1,0 +1,24 @@
+
+* Variables
+Una variable es una forma de almacenar el valor de algo para usar más tarde
+
+* Strings
+Las "strings" son cadenas de texto definidos entre comillas, ya sean simples (`''`) o dobles (`""`).
+ Cualquier texto entre comillas es una cadena o string, asi sean numeros
+
+* Booleans
+Los booleanos son esencialmente dos opciones, activar o desactivar, 0 o 1, verdadero o falso. 
+
+* Undefined
+Se obtendrá `undefined` cuando se busque algo que no existe, como una variable que aún no tiene un valor.
+
+* Null
+Se obtendrá `null` cuando el elemento que se está buscando existe, pero no hay ningún valor asociado a este. 
+` null`null` está configurado por un desarrollador. Si se recibe `null` es que otro desarrollador estableció ese valor en` null`.
+
+* Operadores
+Son simbolos matemáticos que indican al intérprete de JavaScript las operaciones que debe realizar
+
+* `==` vs. `===`
+El "doble igual" (`==`) comparará dos elementos, pero NO tendrá en cuenta sus tipos
+El triple igual comparará todo sobre los dos elementos, incluido el tipo, y devolverá si son exactamente iguales o no.
